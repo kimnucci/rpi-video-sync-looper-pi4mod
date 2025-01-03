@@ -1,4 +1,4 @@
-# RPi-Video-Sync-Looper
+# Adapted from: RPi-Video-Sync-Looper by @andrewintw
 
 [中文說明](README.zh_TW.md) | [ChangeLog](CHANGELOG.md) | [Workshop](docs/2023-12-02-workshop-DAC-Taipei.pdf) | [Donate](https://github.com/andrewintw/donate)
 
