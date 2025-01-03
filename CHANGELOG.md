@@ -12,6 +12,17 @@ Types of changes
 - `Removed` for now removed features.
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
+- 'TBA' to be added, antipated changes. 
+
+
+### KN updates on fork
+## [1.0.1] - 2025-01-02
+
+## Added
+- New disk image with updates to /etc/dhcpcd.conf file:
+    - Hardcoded default static IP address default - 192.168.2.2
+## TBA
+making the IP address an editable parameter in the 'video-sync.conf' file
 
 ## [Unreleased]
 
